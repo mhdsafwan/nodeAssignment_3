@@ -1,1 +1,10 @@
 {"level":"info","message":"Users created successfully"}
+{"level":"info","message":"Users fetched successfully"}
+{"level":"info","message":"Users fetched successfully"}
+{"level":"info","message":"Users updated successfully"}
+{"level":"info","message":"Users fetched successfully"}
+{"level":"info","message":"Users created successfully"}
+{"level":"error","message":"Error occurred while creating users: User validation failed: location: Please enter user location"}
+{"level":"info","message":"Users fetched successfully"}
+{"level":"info","message":"Users updated successfully"}
+{"level":"error","message":"Error occurred while updating users: Cast to ObjectId failed for value \"Udft24\" (type string) at path \"_id\" for model \"User\""}

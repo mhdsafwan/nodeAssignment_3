@@ -1,6 +1,5 @@
 const request = require("supertest");
-const app = require("../index"); // Assuming the Express app is defined in this file
-const { json } = require("express");
+const app = require("../index"); // Express app is defined in this file
 
 
 //This test case tests static data passed through user 
